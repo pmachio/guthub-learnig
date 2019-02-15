@@ -2,3 +2,4 @@ localbranch
 remotebranch1
 remotebranch2
 added sometext
+added some moreText
